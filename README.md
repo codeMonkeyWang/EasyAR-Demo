@@ -1,7 +1,9 @@
 # EasyAR-Demo
 EasyAR  的测试工程
 
-
+## 本地环境
+* Unity 5.4.0f3
+* EasyAR 1.3.1
 
 
 ## 对于EasyAR的评价：
@@ -11,7 +13,8 @@ EasyAR  的测试工程
 
 
 ## 版本更新：
-**20160804：**
+**20160804：v0.1** 
 * 识别身份证背面显示发光效果
+* apk安装文件可以在[这里](https://github.com/codeMonkeyWang/EasyAR-Demo/releases)下载
 ![](idCard.gif)
 
