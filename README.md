@@ -14,7 +14,7 @@ EasyAR  的测试工程
 
 ## 版本更新：
 **20160804：v0.1** 
-* 识别身份证背面显示发光效果
+* 识别身份证背面显示发光效果（所有二代身份证都可以）
 * apk安装文件可以在[这里](https://github.com/codeMonkeyWang/EasyAR-Demo/releases)下载
 ![](idCard.gif)
 
